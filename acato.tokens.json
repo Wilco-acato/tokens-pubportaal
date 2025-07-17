@@ -9940,7 +9940,7 @@
         "marker": {
           "color": {
             "$type": "color",
-            "$value": "{basis.color.default.color-document}"
+            "$value": "{basis.color.accent-1.border-default}"
           }
         }
       }
