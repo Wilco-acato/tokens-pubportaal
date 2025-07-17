@@ -1,5 +1,10 @@
 {
-  "brand": {},
+  "brand": {
+    "accessible-purple": {
+      "$type": "color",
+      "$value": "#8527c0"
+    }
+  },
   "common": {
     "basis": {
       "text": {
