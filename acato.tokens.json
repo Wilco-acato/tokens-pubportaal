@@ -1,5 +1,10 @@
 {
-  "brand": {},
+  "brand": {
+    "accessible-purple": {
+      "$type": "color",
+      "$value": "#8527C0"
+    }
+  },
   "common": {
     "basis": {
       "text": {
@@ -2632,7 +2637,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-default}"
+            "$value": "{accessible-purple}"
           },
           "gap": {
             "$type": "dimension",
@@ -3179,7 +3184,7 @@
         "link": {
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-default}"
+            "$value": "{accessible-purple}"
           },
           "text-decoration": {
             "$type": "textDecoration",
@@ -3301,7 +3306,7 @@
         "link": {
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-default}"
+            "$value": "{accessible-purple}"
           },
           "column-gap": {
             "$type": "dimension",
@@ -3497,7 +3502,7 @@
         "primary-action": {
           "background-color": {
             "$type": "color",
-            "$value": "{basis.color.action-1-inverse.bg-default}"
+            "$value": "{accessible-purple}"
           },
           "border-color": {
             "$type": "color",
@@ -4939,7 +4944,7 @@
         "link": {
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-default}"
+            "$value": "{accessible-purple}"
           },
           "gap": {
             "$type": "dimension",
@@ -5854,7 +5859,7 @@
       "link": {
         "color": {
           "$type": "color",
-          "$value": "{basis.color.action-2.color-default}",
+          "$value": "{accessible-purple}",
           "$description": "[code-only]"
         },
         "text-decoration-color": {
@@ -5922,7 +5927,7 @@
       "link": {
         "color": {
           "$type": "color",
-          "$value": "{basis.color.action-2.color-default}"
+          "$value": "{accessible-purple}"
         },
         "column-gap": {
           "$type": "dimension",
@@ -6716,7 +6721,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-default}"
+            "$value": "{accessible-purple}"
           },
           "font-weight": {
             "$type": "fontWeights",
@@ -6790,7 +6795,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-default}"
+            "$value": "{accessible-purple}"
           },
           "font-weight": {
             "$type": "fontWeights",
@@ -7050,7 +7055,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-default}"
+            "$value": "{accessible-purple}"
           },
           "font-weight": {
             "$type": "fontWeights",
