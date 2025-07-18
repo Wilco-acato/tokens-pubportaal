@@ -3250,6 +3250,10 @@
           }
         }
       }
+    },
+    "bold": {
+      "$type": "fontWeights",
+      "$value": "{basis.text.font-weight.bold}"
     }
   },
   "components/breadcrumb-nav/todo": {
@@ -5920,6 +5924,10 @@
           }
         }
       }
+    },
+    "bold": {
+      "$type": "fontWeights",
+      "$value": "{basis.text.font-weight.bold}"
     }
   },
   "components/link/utrecht": {
